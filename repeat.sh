@@ -2,7 +2,7 @@
 
 while true; do
     # Replace <your-command> with the command you want to run
-    ./start.sh
+    yes |./start.sh
     
     # Optional: Add a message or a sleep period before restarting
     echo "Process exited. Restarting..."
