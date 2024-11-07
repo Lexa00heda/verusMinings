@@ -2,7 +2,7 @@
     "pools":
         [{
             "name": "US-VIPOR",
-            "url": "stratum+tcp://verushash.asia.mine.zergpool.com:3300",
+            "url": "stratum+tcp://verushash.mine.zergpool.com:3300",
             "timeout": 180,
             "disabled": 0
         }
