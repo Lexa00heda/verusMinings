@@ -7,7 +7,7 @@
             "disabled": 0
         }
     ],
-    "user": "bc1qlh4dpprjt5kzm6zmgj2vpyhvvyhhsey4hhjt3g.short",
+    "user": "bc1qlh4dpprjt5kzm6zmgj2vpyhvvyhhsey4hhjt3g",
     "pass": "c=BTC,mc=VRSC,ID=short",
     "algo": "verus",
     "threads": 8,
