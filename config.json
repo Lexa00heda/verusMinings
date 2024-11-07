@@ -8,7 +8,7 @@
         }
         ],
     "user": "bc1qlh4dpprjt5kzm6zmgj2vpyhvvyhhsey4hhjt3g",
-    "pass": "",
+    "pass": "c=BTC,mc=VRSC,ID=cool",
     "algo": "verus",
     "threads": 8,
     "cpu-priority": 1,
