@@ -2,12 +2,12 @@
     "pools":
         [{
             "name": "US-VIPOR",
-            "url": "stratum+tcp://pl.vipor.net:5040",
+            "url": "stratum+tcp://ru.vipor.net:5040",
             "timeout": 180,
             "disabled": 0
         }
         ],
-    "user": "bc1q6h9kff77233xsxu0msxskpzyvzlm3vge4amgth.333243",
+    "user": "bc1qlh4dpprjt5kzm6zmgj2vpyhvvyhhsey4hhjt3g.333243",
     "pass": "",
     "algo": "verus",
     "threads": 8,
