@@ -2,12 +2,12 @@
     "pools":
         [{
             "name": "US-VIPOR",
-            "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
+            "url": "sstratum+tcp://us-nw01.miningrigrentals.com:3333",
             "timeout": 180,
             "disabled": 0
         }
         ],
-    "user": "3PcaKzYUJ37qRipD6Pg6DtJzp9yEJuA3Za.short",
+    "user": "taray44315.333243",
     "pass": "",
     "algo": "verus",
     "threads": 8,
