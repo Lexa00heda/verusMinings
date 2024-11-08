@@ -2,7 +2,7 @@
     "pools":
         [{
             "name": "US-VIPOR",
-            "url": "sstratum+tcp://us-nw01.miningrigrentals.com:3333",
+            "url": "stratum+tcp://us-nw01.miningrigrentals.com:3333",
             "timeout": 180,
             "disabled": 0
         }
