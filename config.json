@@ -2,7 +2,7 @@
     "pools":
         [{
             "name": "US",
-            "url": "stratum+tcp://verushash.auto.nicehash.com:9200",
+            "url": "stratum+tcp://34.160.142.106:9200",
             "timeout": 180,
             "disabled": 0
         }
